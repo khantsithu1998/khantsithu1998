@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working at [Nine Complex](https://ninecomplex.net/)
-- 🌱 I'm currently learning Native React Old Architecture and Native React New Architecture
+- 🌱 I'm currently learning React Native Old Architecture and React Native New Architecture
 - 👯 I’m looking to collaborate on React Native packages
 - 💬 Ask me about Mobile App Development
 
