@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working at [Viatick](https://viatick.com/)
+- 🔭 I’m currently working as Full Stack Developer at [Viatick](https://viatick.com/)
 - 🌱 I'm currently learning React Native Old Architecture and React Native New Architecture
 - 👯 I’m looking to collaborate on React Native packages
 - 💬 Ask me about Mobile App Development
