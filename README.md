@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm a passionate Full Stack Developer with a focus on Mobi
 - [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KhantZero)
 
 ### My GitHub Stats:
-[![Khant Si Thu's GitHub stats](https://github-readme-stats.vercel.app/api?username=khantsithu1998&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=radical)](https://github.com/khantsithu1998)
+[![Khant Si Thu's GitHub stats](https://github-readme-stats.vercel.app/api?username=khantsithu1998&show_icons=true&count_private=true&hide_title=true&theme=dark)](https://github.com/khantsithu1998)
 
 ---
 
