@@ -10,6 +10,8 @@ Welcome to my GitHub! I'm a passionate Full Stack Developer with a focus on Mobi
 ### 📫 How to reach me:
 - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khant-si-thu-2146a3194/)
 - [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KhantZero)
+- [![facebook](https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/khantsithu.zero)
+
 
 ### My GitHub Stats:
 [![Khant Si Thu's GitHub stats](https://github-readme-stats.vercel.app/api?username=khantsithu1998&show_icons=true&count_private=true&hide_title=true&theme=dark)](https://github.com/khantsithu1998)
