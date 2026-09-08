@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I'm a passionate Full Stack Developer with a focus on Mobile App Development and AI. I'm also CEO and Founder of [Zentry Digital Myanmar](https://zentrydigitalmm.com) I love building innovative solutions and learning new technologies.
 
-- 🔭 **Currently working** as a Full Stack Developer at [Viatick](https://viatick.com/), where I contribute to cutting-edge solutions.
+- 🔭 **Previously worked** as a Full Stack Developer at [Viatick](https://viatick.com/), where I contributed to cutting-edge solutions.
 - 🌱 **Learning** React Native Old Architecture, React Native New Architecture, and diving into the fascinating world of Artificial Intelligence (AI).
 - 👯 **Looking to collaborate** on React Native packages, mobile app projects, and AI-related initiatives.
 - 💬 Feel free to **ask me** about Mobile App Development, AI, or anything tech-related!
